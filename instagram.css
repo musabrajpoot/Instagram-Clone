@@ -1,0 +1,134 @@
+.body{
+    background-color: #f1f2f6;
+}
+.form-box{
+    width: 349px;
+    height: 411px;
+    background-color: white;
+    margin-left: 586px;
+    text-align: center;
+    
+}
+h1{
+    padding-top: 40px;
+    font-family: 'Playfair Display', serif;
+	font-size: 24px;
+	font-size: 2.4rem;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+.input-feild{
+    width: 300px;
+    height: 50px;
+}
+input{
+    width: 269px;
+    height: 36px;
+    margin-left: 40px;
+    border-radius: 3px;
+    border-color: #bfbaba;
+}
+.btn{
+    width: 270px;
+    height: 34px;
+    background-color: #3897f1;
+    border-radius: 10px;
+    border-color: #3897f1;
+    margin-top: 16px;
+    margin-left: 5px;
+    color: white;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: #2770be;
+}
+.hr1{
+    width: 110px;
+    margin-top: 25px;
+    float: left;
+    margin-left: 40px;
+}
+.hr2{
+    width: 110px;
+    margin-top: 25px;
+    float: right;
+    margin-right: 40px;
+}
+.fb a{
+    text-decoration: none; 
+    margin-left: 10px;
+    color: #276185;
+}
+.fb{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 15px;
+    padding-top: 25px;
+}
+.fp{
+    margin-top: 15px;
+}
+.fp a{
+    text-decoration: none;
+    color: #6e9eaf;
+}
+.form-box2{
+    width: 350px;
+    height: 60px;
+    background-color: white;
+    margin-left: 586px;
+    margin-top: 10px;
+}
+.form-box2 p{
+    text-align: center;
+    padding-top: 20px;
+
+}
+.form-box2 a{
+    text-decoration: none;
+    color: #1668bd;
+    font-weight: bold;
+}
+.app{
+    margin-left: 48%;
+}
+.img1 img{
+    width: 131px;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 51%;
+    display: inline-block;
+}
+.img2 img{
+    width: 131px;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 41%;
+    margin-top: -55px;
+    display: table;
+    clear: both;
+}
+.fotter{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.fotter a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(140, 133, 133);
+    font-size: 13px;
+}
+select{
+    border: none;
+    color:rgb(140, 133, 133) ;
+    border-radius: 5px;
+    margin-left: -140px;
+}
+footer{
+    color: rgb(140, 133, 133);
+    font-size: 13px;
+    margin-left: 100px;
+    margin-top: -15px;
+
+}
